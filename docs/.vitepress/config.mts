@@ -2,12 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
+  title: "产品设计室-前端开发规范",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '首页', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
