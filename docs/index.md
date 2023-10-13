@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "前端开发规范"
   # text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline: 你值得拥有
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 概览
+      link: files/overview
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 设计风格
+      link: files/design-style
 
 features:
   - title: 统一的界面风格
